@@ -17,7 +17,7 @@ $user_data=check_login($con);
 <body>
     <header>
            <div class="icon">
-               <a class="logo"><img src="LogoMakr-0i3dlm.png" height="79" width="130"></a>
+               <a class="logo"><img src="Images/LogoMakr-0i3dlm.png" height="79" width="130"></a>
            </div>
                <nav class="navbar">
                    <a href="index.php">DASHBOARD</a>

@@ -36,7 +36,7 @@ $user_data=check_login($con);
     <div class="box-container1">
         <div class="box1">
             <div class="image">
-                <img src="image1.jpg"alt="Bangalore">
+                <img src="Images/image1.jpg"alt="Bangalore">
             </div>
             <div class="content">
                 <h3>bangalore</h3>
@@ -46,7 +46,7 @@ $user_data=check_login($con);
         </div>
         <div class="box1">
             <div class="image">
-                <img src="images2.jpg"alt="Hyderbad">
+                <img src="Images/images2.jpg"alt="Hyderbad">
             </div>
             <div class="content">
                 <h3>hyderbad</h3>
@@ -56,7 +56,7 @@ $user_data=check_login($con);
         </div>
         <div class="box1">
             <div class="image">
-                <img src="images3.jpg" alt="Delhi">
+                <img src="Images/images3.jpg" alt="Delhi">
             </div>
             <div class="content">
                 <h3>delhi</h3>
@@ -66,7 +66,7 @@ $user_data=check_login($con);
         </div>
         <div class="box1">
             <div class="image">
-                <img src="images4.jpg" alt="Madikeri">
+                <img src="Images/images4.jpg" alt="Madikeri">
             </div>
             <div class="content">
                 <h3>madikeri</h3>
@@ -76,7 +76,7 @@ $user_data=check_login($con);
         </div>
         <div class="box1">
             <div class="image">
-                <img src="images5.jpg" alt="Kudremukh">
+                <img src="Images/images5.jpg" alt="Kudremukh">
             </div>
             <div class="content">
                 <h3>kudremukh</h3>
@@ -86,7 +86,7 @@ $user_data=check_login($con);
         </div>
         <div class="box1">
             <div class="image">
-                <img src="images6.jpg" alt="Dandeli">
+                <img src="Images/images6.jpg" alt="Dandeli">
             </div>
             <div class="content">
                 <h3>Dandeli</h3>
@@ -96,7 +96,7 @@ $user_data=check_login($con);
         </div>
         <div class="box1">
             <div class="image">
-                <img src="images7.jpg" alt="Mumbai">
+                <img src="Images/images7.jpg" alt="Mumbai">
             </div>
             <div class="content">
                 <h3>mumbai</h3>
@@ -106,7 +106,7 @@ $user_data=check_login($con);
         </div>
         <div class="box1">
             <div class="image">
-                <img src="images8.jpg" alt="Mysore">
+                <img src="Images/images8.jpg" alt="Mysore">
             </div>
             <div class="content">
                 <h3>mysore</h3>

@@ -18,7 +18,7 @@ $user_data=check_login($con);
    <div class="main">
     <header>
            <div class="icon">
-               <a class="logo"><img src="LogoMakr-0i3dlm.png" height="79" width="130"></a>
+               <a class="logo"><img src="Images/LogoMakr-0i3dlm.png" height="79" width="130"></a>
            </div>
                <nav class="navbar">
                    <a href="index.php">DASHBOARD</a>
@@ -37,11 +37,11 @@ $user_data=check_login($con);
        <h1>Different Buses Available</h1>
        <p>Choose Your Own Comfort</p>
        <div class="main-carousel">
-        <div class="cell"><img src="ksrtc-changanassery-velankanni-express.jpg"></div>
-        <div class="cell"><img src="DSC_5186.jpg"></div>
-        <div class="cell"><img src="main-qimg-1b56ba46ea32a915dbcfe6ed92fae78f-lq.jpg"></div>
-        <div class="cell"><img src="ksrtc-double-decker-bus (1).jpg"></div>
-        <div class="cell"><img src="ksrtc-bus-service.jpg"></div>
+        <div class="cell"><img src="Images/ksrtc-changanassery-velankanni-express.jpg"></div>
+        <div class="cell"><img src="Images/DSC_5186.jpg"></div>
+        <div class="cell"><img src="Images/main-qimg-1b56ba46ea32a915dbcfe6ed92fae78f-lq.jpg"></div>
+        <div class="cell"><img src="Images/ksrtc-double-decker-bus (1).jpg"></div>
+        <div class="cell"><img src="Images/ksrtc-bus-service.jpg"></div>
   </div>
   <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
   <script type="text/javascript">
@@ -172,7 +172,7 @@ $user_data=check_login($con);
     <div class="box-container1">
         <div class="box1">
             <div class="image">
-                <img src="image1.jpg"alt="Bangalore">
+                <img src="Images/image1.jpg"alt="Bangalore">
             </div>
             <div class="content">
                 <h3>bangalore</h3>
@@ -182,7 +182,7 @@ $user_data=check_login($con);
         </div>
         <div class="box1">
             <div class="image">
-                <img src="images2.jpg"alt="Hyderbad">
+                <img src="Images/images2.jpg"alt="Hyderbad">
             </div>
             <div class="content">
                 <h3>hyderbad</h3>
@@ -192,7 +192,7 @@ $user_data=check_login($con);
         </div>
         <div class="box1">
             <div class="image">
-                <img src="images3.jpg" alt="Delhi">
+                <img src="Images/images3.jpg" alt="Delhi">
             </div>
             <div class="content">
                 <h3>delhi</h3>
@@ -202,7 +202,7 @@ $user_data=check_login($con);
         </div>
         <div class="box1">
             <div class="image">
-                <img src="images4.jpg" alt="Madikeri">
+                <img src="Images/images4.jpg" alt="Madikeri">
             </div>
             <div class="content">
                 <h3>madikeri</h3>
@@ -212,7 +212,7 @@ $user_data=check_login($con);
         </div>
         <div class="box1">
             <div class="image">
-                <img src="images5.jpg" alt="Kudremukh">
+                <img src="Images/images5.jpg" alt="Kudremukh">
             </div>
             <div class="content">
                 <h3>kudremukh</h3>
@@ -222,7 +222,7 @@ $user_data=check_login($con);
         </div>
         <div class="box1">
             <div class="image">
-                <img src="images6.jpg" alt="Dandeli">
+                <img src="Images/images6.jpg" alt="Dandeli">
             </div>
             <div class="content">
                 <h3>Dandeli</h3>
@@ -232,7 +232,7 @@ $user_data=check_login($con);
         </div>
         <div class="box1">
             <div class="image">
-                <img src="images7.jpg" alt="Mumbai">
+                <img src="Images/images7.jpg" alt="Mumbai">
             </div>
             <div class="content">
                 <h3>mumbai</h3>
@@ -242,7 +242,7 @@ $user_data=check_login($con);
         </div>
         <div class="box1">
             <div class="image">
-                <img src="images8.jpg" alt="Mysore">
+                <img src="Images/images8.jpg" alt="Mysore">
             </div>
             <div class="content">
                 <h3>mysore</h3>
@@ -275,7 +275,7 @@ $user_data=check_login($con);
 <section class="about">
 
 <div class="image">
-   <img src="abo.jpg" alt="">
+   <img src="Images/abo.jpg" alt="">
 </div>
 
 <div class="content">

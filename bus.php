@@ -17,7 +17,7 @@ $user_data=check_login($con);
 <body>
     <header>
            <div class="icon">
-               <a class="logo"><img src="LogoMakr-0i3dlm.png" height="79" width="130"></a>
+               <a class="logo"><img src="Images/LogoMakr-0i3dlm.png" height="79" width="130"></a>
            </div>
                <nav class="navbar">
                    <a href="index.php">DASHBOARD</a>
@@ -35,11 +35,11 @@ $user_data=check_login($con);
        <h1 class=bus2>Different Buses Available</h1>
        <p>Choose Your Own Comfort</p>
        <div class="main-carousel">
-        <div class="cell"><img src="ksrtc-changanassery-velankanni-express.jpg"></div>
-        <div class="cell"><img src="DSC_5186.jpg"></div>
-        <div class="cell"><img src="main-qimg-1b56ba46ea32a915dbcfe6ed92fae78f-lq.jpg"></div>
-        <div class="cell"><img src="ksrtc-double-decker-bus (1).jpg"></div>
-        <div class="cell"><img src="ksrtc-bus-service.jpg"></div>
+        <div class="cell"><img src="Images/ksrtc-changanassery-velankanni-express.jpg"></div>
+        <div class="cell"><img src="Images/DSC_5186.jpg"></div>
+        <div class="cell"><img src="Images/main-qimg-1b56ba46ea32a915dbcfe6ed92fae78f-lq.jpg"></div>
+        <div class="cell"><img src="Images/ksrtc-double-decker-bus (1).jpg"></div>
+        <div class="cell"><img src="Images/ksrtc-bus-service.jpg"></div>
   </div>
   <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
   <script type="text/javascript">

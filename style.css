@@ -6,21 +6,21 @@
 }
 .main{
     width:100;
-    background:linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(Bus3.jpeg);
+    background:linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(Images/abo.jpg);
     background-position: center;
     background-size:cover;
     height:109vh;
 }
 .main1{
     width:100;
-    background:linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(Bus6.jpg);
+    background:linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(Images/Bus6.jpg);
     background-position: center;
     background-size:cover;
     height:109vh;
 }
 .main2{
     width:100;
-    background:linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(Bus5.jpg);
+    background:linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(Images/Bus5.jpg);
     background-position: center;
     background-size:cover;
     height:109vh;
@@ -221,7 +221,7 @@ section p.text span{
 }
 .footer{
     padding-top: 3rem;
-    background:url(footer-bg.jpg)no-repeat;
+    background:url(Images/footer-bg.jpg)no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -494,7 +494,7 @@ text-decoration: none;
     padding-bottom: 2rem;
 }
 .heading3{
-    background: url(header-bg-1.png)no-repeat;
+    background: url(Images/header-bg-1.png)no-repeat;
     background-size: cover !important;
     background-position: center !important;
     padding-top: 5rem;
@@ -576,7 +576,7 @@ text-decoration: none;
  }
  
  .heading4{
-    background: url(header-bg-1.png)no-repeat;
+    background: url(Images/header-bg-1.png)no-repeat;
     background-size: cover !important;
     background-position: center !important;
     padding-top: 8rem;
